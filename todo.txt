@@ -1,0 +1,10 @@
+ - static fill:
+    - sponsor
+    - school (address)
+
+ - dynamic fill:
+    - name (*)
+    - title
+    - date (default to current date?)
+
+* = initial required field
