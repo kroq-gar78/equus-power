@@ -13,4 +13,5 @@ pdftk isef_1a.pdf dump_data_fields | pdffdf -ln > isef_1a_fields.yml
 # copy PDF to separate file for safe keeping
 #cp -av "$1.pdf"
 
-# dump the new fields back into the PDF
+# edit the YAML file with the new parameters
+
