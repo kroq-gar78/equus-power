@@ -1,0 +1,189 @@
+---
+FieldType: Text
+FieldName: 1ATeamLeader
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1AGrade
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1AEMail
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1APhone
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: TeamMember2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: TeamMember3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ProjectTitle
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ProjectTitle2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1ASchool
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1ASchoolPhone
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1ASchoolAdd1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1ASchoolAdd2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1AAdultSpon
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1AASEmail
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: SCContinue
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: SCAbstract
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: SCResPlan
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: CF7
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: SCActStart
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SCActEnd
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: SCResInst
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: SCSchool
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: SCField
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: SCHome
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: SCOther
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: SCOtherExpl
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SCNonName1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SCNonName2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SCNonAdd1A
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SCNonAdd2A
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SCNonAdd1B
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SCNonAdd2B
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SCNonPhone1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SCNonPhone2
+FieldFlags: 0
+FieldJustification: Left
