@@ -31,47 +31,47 @@
   flags: 0
 - value: "6"
   type: Text
-  alias: ""
+  alias: "title_ln1"
   name: ProjectTitle
   flags: 0
 - value: "7"
   type: Text
-  alias: ""
+  alias: "title_ln2"
   name: ProjectTitle2
   flags: 0
 - value: "8"
   type: Text
-  alias: ""
+  alias: "school_name"
   name: 1ASchool
   flags: 0
 - value: "9"
   type: Text
-  alias: ""
+  alias: "school_phone"
   name: 1ASchoolPhone
   flags: 0
 - value: "10"
   type: Text
-  alias: ""
+  alias: "school_addr"
   name: 1ASchoolAdd1
   flags: 0
 - value: "11"
   type: Text
-  alias: ""
+  alias: "school_addr_line2"
   name: 1ASchoolAdd2
   flags: 0
 - value: "12"
   type: Text
-  alias: ""
+  alias: "sponsor_name"
   name: 1AAdultSpon
   flags: 0
 - value: "13"
   type: Text
-  alias: ""
+  alias: "sponsor_phoneEmail"
   name: 1AASEmail
   flags: 0
 - value: "14"
   type: Button
-  alias: ""
+  alias: "cont"
   options: 
   - "No"
   - "Off"
@@ -80,7 +80,7 @@
   flags: 0
 - value: "15"
   type: Button
-  alias: ""
+  alias: "cont_abstract"
   options: 
   - "Off"
   - "Yes"
@@ -88,7 +88,7 @@
   flags: 0
 - value: "16"
   type: Button
-  alias: ""
+  alias: "cont_researchPlan"
   options: 
   - "Off"
   - "Yes"
@@ -96,7 +96,7 @@
   flags: 0
 - value: "17"
   type: Button
-  alias: ""
+  alias: "cont_form7"
   options: 
   - "Off"
   - "Yes"
@@ -104,17 +104,17 @@
   flags: 0
 - value: "18"
   type: Text
-  alias: ""
+  alias: "start"
   name: SCActStart
   flags: 0
 - value: "19"
   type: Text
-  alias: ""
+  alias: "end"
   name: SCActEnd
   flags: 0
 - value: "20"
   type: Button
-  alias: ""
+  alias: "place_institution"
   options: 
   - "Off"
   - "Yes"
@@ -122,7 +122,7 @@
   flags: 0
 - value: "21"
   type: Button
-  alias: ""
+  alias: "place_school"
   options: 
   - "Off"
   - "Yes"
@@ -130,7 +130,7 @@
   flags: 0
 - value: "22"
   type: Button
-  alias: ""
+  alias: "place_field"
   options: 
   - "Off"
   - "Yes"
@@ -138,7 +138,7 @@
   flags: 0
 - value: "23"
   type: Button
-  alias: ""
+  alias: "place_home"
   options: 
   - "Off"
   - "Yes"
@@ -146,7 +146,7 @@
   flags: 0
 - value: "24"
   type: Button
-  alias: ""
+  alias: "place_other"
   options: 
   - "Off"
   - "Yes"
@@ -154,41 +154,41 @@
   flags: 0
 - value: "25"
   type: Text
-  alias: ""
+  alias: "place_other_expl"
   name: SCOtherExpl
   flags: 0
 - value: "26"
   type: Text
-  alias: ""
+  alias: "place1_name"
   name: SCNonName1
   flags: 0
 - value: "27"
   type: Text
-  alias: ""
+  alias: "place2_name"
   name: SCNonName2
   flags: 0
 - value: "28"
   type: Text
-  alias: ""
+  alias: "place1_addr_ln1"
   name: SCNonAdd1A
   flags: 0
 - value: "29"
   type: Text
-  alias: ""
+  alias: "place2_addr_ln1"
   name: SCNonAdd2A
   flags: 0
 - value: "30"
   type: Text
-  alias: ""
+  alias: "place1_addr_ln2"
   name: SCNonAdd1B
   flags: 0
 - value: "31"
   type: Text
-  alias: ""
+  alias: "place2_addr_ln2"
   name: SCNonAdd2B
   flags: 0
 - value: "32"
   type: Text
-  alias: ""
+  alias: "place1_phone"
   name: SCNonPhone1
   flags: 0
