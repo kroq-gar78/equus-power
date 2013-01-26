@@ -1,75 +1,60 @@
 --- 
-- value: "0"
   type: Text
   alias: "student1"
   name: 1ATeamLeader
   flags: 0
-- value: "1"
   type: Text
   alias: "grade"
   name: 1AGrade
   flags: 0
-- value: "2"
   type: Text
   alias: "email"
   name: 1AEMail
   flags: 0
-- value: "3"
   type: Text
   alias: "phone"
   name: 1APhone
   flags: 0
-- value: "4"
   type: Text
   alias: "student2"
   name: TeamMember2
   flags: 0
-- value: "5"
   type: Text
   alias: "student3"
   name: TeamMember3
   flags: 0
-- value: "6"
   type: Text
   alias: "title_ln1"
   name: ProjectTitle
   flags: 0
-- value: "7"
   type: Text
   alias: "title_ln2"
   name: ProjectTitle2
   flags: 0
-- value: "8"
   type: Text
   alias: "school_name"
   name: 1ASchool
   flags: 0
-- value: "9"
   type: Text
   alias: "school_phone"
   name: 1ASchoolPhone
   flags: 0
-- value: "10"
   type: Text
   alias: "school_addr"
   name: 1ASchoolAdd1
   flags: 0
-- value: "11"
   type: Text
   alias: "school_addr_line2"
   name: 1ASchoolAdd2
   flags: 0
-- value: "12"
   type: Text
   alias: "sponsor_name"
   name: 1AAdultSpon
   flags: 0
-- value: "13"
   type: Text
   alias: "sponsor_phoneEmail"
   name: 1AASEmail
   flags: 0
-- value: "14"
   type: Button
   alias: "cont"
   options: 
@@ -78,7 +63,6 @@
   - "Yes"
   name: SCContinue
   flags: 0
-- value: "15"
   type: Button
   alias: "cont_abstract"
   options: 
@@ -86,7 +70,6 @@
   - "Yes"
   name: SCAbstract
   flags: 0
-- value: "16"
   type: Button
   alias: "cont_researchPlan"
   options: 
@@ -94,7 +77,6 @@
   - "Yes"
   name: SCResPlan
   flags: 0
-- value: "17"
   type: Button
   alias: "cont_form7"
   options: 
@@ -102,17 +84,14 @@
   - "Yes"
   name: CF7
   flags: 0
-- value: "18"
   type: Text
   alias: "start"
   name: SCActStart
   flags: 0
-- value: "19"
   type: Text
   alias: "end"
   name: SCActEnd
   flags: 0
-- value: "20"
   type: Button
   alias: "place_institution"
   options: 
@@ -120,7 +99,6 @@
   - "Yes"
   name: SCResInst
   flags: 0
-- value: "21"
   type: Button
   alias: "place_school"
   options: 
@@ -128,7 +106,6 @@
   - "Yes"
   name: SCSchool
   flags: 0
-- value: "22"
   type: Button
   alias: "place_field"
   options: 
@@ -136,7 +113,6 @@
   - "Yes"
   name: SCField
   flags: 0
-- value: "23"
   type: Button
   alias: "place_home"
   options: 
@@ -144,7 +120,6 @@
   - "Yes"
   name: SCHome
   flags: 0
-- value: "24"
   type: Button
   alias: "place_other"
   options: 
@@ -152,42 +127,34 @@
   - "Yes"
   name: SCOther
   flags: 0
-- value: "25"
   type: Text
   alias: "place_other_expl"
   name: SCOtherExpl
   flags: 0
-- value: "26"
   type: Text
   alias: "place1_name"
   name: SCNonName1
   flags: 0
-- value: "27"
   type: Text
   alias: "place2_name"
   name: SCNonName2
   flags: 0
-- value: "28"
   type: Text
   alias: "place1_addr_ln1"
   name: SCNonAdd1A
   flags: 0
-- value: "29"
   type: Text
   alias: "place2_addr_ln1"
   name: SCNonAdd2A
   flags: 0
-- value: "30"
   type: Text
   alias: "place1_addr_ln2"
   name: SCNonAdd1B
   flags: 0
-- value: "31"
   type: Text
   alias: "place2_addr_ln2"
   name: SCNonAdd2B
   flags: 0
-- value: "32"
   type: Text
   alias: "place1_phone"
   name: SCNonPhone1
