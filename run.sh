@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -eu
 
 name=$1
 sponsor_name=$2
@@ -14,6 +14,9 @@ school_addr=$4
 #cp -av "$1.pdf"
 
 # TODO: edit the YAML file with the new parameters
+
+# merge the master and student YAML files and convert to FDF
+pdffdf -g isef_1a_fields.yaml "$name.yml" > "$name.fdf"
 
 # export the final PDF
 pdftk isef_1a.pdf fill_form "$name.fdf" output "$name.pdf"
