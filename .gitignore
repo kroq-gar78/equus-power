@@ -1,0 +1,15 @@
+*.so
+a.out
+*.dylib
+*.dSYM
+*.xcworkspace
+
+*.lib
+*.obj
+
+*.a
+*.d
+
+
+*.gem
+
