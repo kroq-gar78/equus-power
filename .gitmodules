@@ -1,0 +1,3 @@
+[submodule "pdf-fdf"]
+	path = pdf-fdf
+	url = git://github.com/pjones/pdf-fdf.git
